@@ -50,9 +50,9 @@ export default () => (
         border-slate
         border-none
         hover:border-dashed
-        href="https://qachat.cc"
+        href="https://qa.kouseki.eu.org"
         target="_blank">
-        qachat.cc
+        qa.kouseki.eu.org
       </a>{" "}
       (国内)；
       <a
@@ -60,25 +60,25 @@ export default () => (
         border-slate
         border-none
         hover:border-dashed
-        href="https://qachats.vercel.app"
+        href="https://qa.kouseki.eu.org"
         target="_blank">
-        qachats.vercel.app
+        qa.kouseki.eu.org
       </a>{" "}
-      (魔法，建议收藏)。鉴于前几次域名被墙导致有小伙伴迷路，建了个{" "}
-      <strong>QAChat防走失群(634323049)</strong>，欢迎加入。
+      {" "}
+      <strong>群(暂无)</strong>，没得加入。
     </p>
     <p>
       <span text-lg text-slate-5>
-        交流
+        本站
       </span>{" "}
       <a
         border-b
         border-slate
         border-none
         hover:border-dashed
-        href="https://t.me/yesmore_cc"
+        href="https://qa.kouseki.eu.org"
         target="_blank">
-        Telegram群组 (集成ChatGPT喵娘机器人)
+        地址：https://qa.kouseki.eu.org/
       </a>
     </p>
     <details mt-1>
