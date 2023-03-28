@@ -62,7 +62,7 @@ export default () => (
         hover:border-dashed
         href="https://qa.kouseki.eu.org"
         target="_blank">
-        qa.kouseki.eu.org
+        qa-chat.vercel.app
       </a>{" "}
       {" "}
       <strong>群(暂无)</strong>，没得加入。
