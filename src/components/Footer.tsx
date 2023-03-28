@@ -35,7 +35,7 @@ const customTosat = () => {
                 “<strong>红包？</strong>”想得美啦！
               </div>
               <div class="text-sm text-cyan-50">
-                站长推荐 <strong></strong>
+                今天也要加油哦！ <strong></strong>
               </div>
             </div>
             <div class="flex items-center">
